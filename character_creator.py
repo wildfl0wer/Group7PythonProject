@@ -69,7 +69,7 @@ def introduction():
         "\n\nYou can create custom characters with a custom names and"
         " choose their race and class."
         "\nFor each character you have a pool of {} points to spend on {}"
-        " attributes: \n\t{}, {}, {}, and {}\nYou can spend points from"
+        " attributes: \n\t{}, {}, {}, {}, and {}\nYou can spend points from"
         " the pool on any attribute as well as reassign those points."
         "\nThe program will calculate each character's hit die, HP, and AC"
         " for you."
